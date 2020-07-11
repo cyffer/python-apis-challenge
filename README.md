@@ -1,6 +1,6 @@
 **The Plot Analysis Measuring Weather Data**
 
-This random dataset includes 428 cities in  northern hemisphere and 168 cities in southern hemisphere have been compiled and analyzed.  The following criteria includes scatter plots for the following criteria:
+This random dataset includes 428 cities in  northern hemisphere and 168 cities in southern hemisphere have been compiled and analyzed.  This analysis includes scatter plots for the following criteria:
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
 - Southern Hemisphere - Temperature (F) vs. Latitude
