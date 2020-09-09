@@ -7,7 +7,7 @@ This random dataset includes 428 cities in  northern hemisphere and 168 cities i
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
 
-![lat35](imgs/lat35.jpg)
+![lat35](imgs/lat35.png)
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
@@ -16,20 +16,20 @@ This random dataset includes 428 cities in  northern hemisphere and 168 cities i
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
 
-![lat33](imgs/lat33.jpg)
+![lat33](imgs/lat33.png)
 
 
 - Cities in the Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![lat30](imgs/lat30.jpg)
+![lat30](imgs/lat30.png)
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-![lat31](imgs/lat31.jpg)
+![lat31](imgs/lat31.png)
 
 
 - Southern Hemisphere - Temperature (%) vs. Latitude
 
-![lat32](imgs/lat32.jpg)
+![lat32](imgs/lat32.png)
 
 
